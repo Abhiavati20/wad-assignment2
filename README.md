@@ -1,5 +1,6 @@
 # wad-assignment2
 # Assignment 2A
+#### github repository created for assignment 2b and 2c combinely
 ![1st screenshot](https://github.com/Abhiavati20/wad-assignment2/blob/main/screenshot/Screenshot%20from%202022-04-24%2012-59-30.png)
 # Assignment 2B
 #### node server running on localhost
